@@ -9,8 +9,8 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaquimoliveira22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimoliveira22&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ## 🏆 Conquistas GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=dracula&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=joaquimoliveira22&theme=dracula&column=4"/>
 </p>
 
 ---
