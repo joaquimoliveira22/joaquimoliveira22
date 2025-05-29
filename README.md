@@ -33,7 +33,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
----
 
-> Gerado com [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), [Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) e [Shields.io](https://shields.io)
 
