@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 me chamo Joaquim Oliveira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Desenvolvedor+Back+End;Apaixonado+por+tecnologia;Sempre+aprendendo+📚" />
 </p>
 
 ---
