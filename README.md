@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Desenvolvedor+Back+End;Apaixonado+por+tecnologia;Sempre+aprendendo+📚" />
 </p>
 
----
+
 
 ## 📊 Estatísticas GitHub
 
