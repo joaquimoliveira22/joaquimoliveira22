@@ -15,11 +15,6 @@
 
 ---
 
-## 🏆 Conquistas GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaquimoliveira22&theme=dracula&column=4"/>
-</p>
 
 ---
 
